@@ -3,9 +3,6 @@ import unittest
 
 import json
 
-"""
-Tests for Python wrapper
-"""
 
 class beer_testing(unittest.TestCase):
 
